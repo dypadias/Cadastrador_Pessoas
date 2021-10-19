@@ -6,7 +6,13 @@
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1"
     },
-    "keywords": ["cadastro de pessosa", "gestão de pessoas"],
+    "keywords": [
+        "cadastro de pessosa",
+        "gestão de pessoas"
+    ],
     "author": "",
-    "license": "ISC"
+    "license": "ISC",
+    "dependencies": {
+        "express": "^4.17.1"
+    }
 }
